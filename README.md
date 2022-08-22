@@ -3,7 +3,7 @@
 You are a rat looking for a snack, but the homeowner is not going down without a fight. Maneuver your way through the mouse traps while securing the cheese! You utlimately win when you reach your home, but more cheese gives more points!
 
 ## Controls
-Controls are very basic:\
+Controls are very basic:
 
 Arrow Keys: Move the rat in the respective direction\
 A: Increases velocity in the x direction, like a nitro of sorts. Had to be set to KEY_JUST_PRESSED because KEY_DOWN made you move way to fast due to limitations of integer math.\
